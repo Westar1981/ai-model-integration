@@ -1,0 +1,8 @@
+
+transformers
+torch
+requests
+feedparser
+flask
+uvicorn
+aiohttp
